@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Biodata</title>
+        <?php
+print
+"<pre>
+
+    <center style="margin-bottom: 100px;"><font size="50" color="red">BIODATA</font></center>
+    <div>
+    <center><font size="6" color="blue" align="left">Nama: </font><b><font size="6" color="blue">Ari Saputra</font></b></center>
+    <center><font size="6" color="blue" align="left">Email: Arisptra@gmail.com </font></center>
+    <center><font size="6" color="blue" align="left">Jurusan: Teknik Informatika </font></center>
+    <center><font size="6" color="blue" align="left">Hoby: Traveling </font></center>
+</div>
+<br/>
+    </head>
+</html>
